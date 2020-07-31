@@ -1,0 +1,52 @@
+1.Mean
+2.Median
+3.Mode
+4.Standard Deviation
+5.Harmonic mean
+6.Least Square Fit
+
+Enter the choice
+Enter the no. of elements
+Enter the elements
+Mean = 10.000000
+
+Time taken = 0.000000 nsec
+
+Enter the choice
+Enter the no. of elements
+Enter the elements
+Median = 8.000000
+
+Time taken = 0.000000 nsec
+
+Enter the choice
+Enter the no. of elements
+Enter the elements
+Mode = 7.000000
+
+Time taken = 0.000000 nsec
+
+Enter the choice
+Enter the no. of elements
+Enter the elements
+Standard Deviation = 29.723728
+
+Time taken = 0.000000 nsec
+
+Enter the choice
+Enter the no. of elements
+Enter the elements
+Harmonic mean of numbers = 19.277564
+
+Time taken = 0.000000 nsec
+
+Enter the choice
+Enter the appropriate order of matrix A
+Enter the elements of A
+Enter no. of columns of A
+Enter the elements of b
+The least square solution for the given problem
+y = -1434605.125000 + 34504484.000000 x1 + 23429224.000000 x2 + -106956.492188 x3 + 18271602.000000 x4 + 3383389.750000 x5 + -4504942.500000 x6 + 1382134.875000 x7
+Time taken = 0.000000 nsec
+
+Enter the choice
